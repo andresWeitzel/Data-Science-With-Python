@@ -1,7 +1,7 @@
 # Data_Science_With_Python
-```
-Para el uso, analisis y manipulacion de datos se aplican las siguientes librerias:
-```
+
+**Para el uso, analisis y manipulacion de datos se aplican las siguientes librerias:**
+
 | Librerias | Funcion |
 | ------------- | ------------- |
 | Pandas  | Manipulacion/Analisis  |
