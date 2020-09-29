@@ -7,9 +7,10 @@ Para el uso, analisis y manipulacion de datos se aplican las siguientes libreria
 - Matplotlib->Generacion de Graficos
 
 
-| Primer encabezado | Segundo encabezado |
+| Librerias | Funcion |
 | ------------- | ------------- |
-| Contenido de la celda  | Contenido de la celda  |
-| Contenido de la celda  | Contenido de la celda  |
+| Pandas  | Manipulacion/Analisis  |
+| NumPy  | Calculo  |
+| Matplotlib|Generacion de Graficos|
 
 
